@@ -1,0 +1,7 @@
+query = '''I have provided you with the resume of the candidate.
+Read the provided resume and perform the following tasks:
+- Identify the role the candidate is applying for based on the resume.
+- Create 15 interview questions that are relevant to the identified role and tailored to the candidate's skills and specific to that job role.
+- Ensure the questions are specific to the details mentioned in the resume and are designed to assess the candidate's expertise, problem-solving abilities, and practical application of their knowledge.
+Please structure questions in a clear and organized manner using numbered points (e.g., 1, 2, 3). Ensure that all significant points are included while generating questions."
+'''
